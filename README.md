@@ -14,8 +14,8 @@
 ```yaml
     name: James Crosbie
     location: West Yorkshire
-    current role: Senior Data Scientist
-    organisation: Department of Health & Social Care
+    current role: Lead Data Scientist
+    organisation: UK Health Security Agency
 
     intersts:
         - Data Science
